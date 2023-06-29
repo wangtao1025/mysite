@@ -1,0 +1,1 @@
+import{_ as i,o as l,c as e,O as o}from"./chunks/framework.fa077b66.js";const p=JSON.parse('{"title":"Linux","description":"","frontmatter":{},"headers":[],"relativePath":"运维/Linux.md","filePath":"运维/Linux.md"}'),a={name:"运维/Linux.md"},n=o("",7),t=[n];function d(r,u,c,s,_,h){return l(),e("div",null,t)}const f=i(a,[["render",d]]);export{p as __pageData,f as default};
